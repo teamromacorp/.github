@@ -1,6 +1,6 @@
 # ROMACORP - Soluciones Innovadoras en Salud y Tecnología
 
-![ROMACORP Banner](images/romacorp-banner.png)
+![ROMACORP Banner](../images/romacorp-banner.png)
 
 ROMACORP (MEDICAL CARE SERVICES S.A.C.) es un conglomerado innovador que integra diversas empresas en los sectores de la salud y la tecnología. Uniendo las capacidades únicas de cada subsidiaria, nuestra empresa se destaca por ofrecer soluciones holísticas y personalizadas.
 
@@ -41,7 +41,7 @@ ROMACORP está compuesto por diversas unidades de negocio especializadas en dife
 
 ## Excelencia y Certificaciones
 
-![Certificaciones ISO](images/certificaciones-iso.png)
+![Certificaciones ISO](../images/certificaciones-iso.png)
 
 En ROMACORP, nos enorgullecemos de nuestro compromiso con la excelencia y la calidad, lo cual se refleja en nuestra obtención de prestigiosas certificaciones internacionales ISO. Somos el único laboratorio en Perú con las siguientes cinco certificaciones:
 
